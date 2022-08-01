@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+.picture {
+  height: 88px;
+  width: 88px;
+}
+.picture_two {
+  width: 65px;
+  height: 88px;
+}
